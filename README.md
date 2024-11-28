@@ -12,17 +12,17 @@ This Python tool that revolutionizes the process of identifying hard-coded API s
 
 1. Clone the repository:
 
-   git clone https://github.com/ajayhackz/secret-finder.git
+            git clone https://github.com/ajayhackz/secret-finder.git
 
 2. Install the dependencies:
 
-    pip install -r requirements.txt
+           pip install -r requirements.txt
 
 ## Uage
 
 3. Run the tool:
 
-    python secret_finder.py
+          python secret_finder.py
  
 Enter the path to the APK file when prompted.
 
