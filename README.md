@@ -22,7 +22,7 @@ This Python tool that revolutionizes the process of identifying hard-coded API s
 
 3. Run the tool:
 
-          python secret_finder.py
+          python3 secret_finder.py
  
 Enter the path to the APK file when prompted.
 
